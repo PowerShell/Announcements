@@ -1,12 +1,22 @@
 # Announcements
 
-This repo is for team announcements only. To file a bug or start a discussion, please find the appropriate repo in [PowerShell](https://github.com/PowerShell) and create a new issue. For general issue discussions please go to [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/issues) and create a new issue.
+This repo is for team announcements only.
+To file a bug or start a discussion,
+please find the appropriate repo in [PowerShell](https://github.com/PowerShell) and create a new issue.
+For general issue discussions please go to [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/issues) and create a new issue.
 
-All items posted to this repo are locked, but will typically have links to separate discussion threads in the affected repo. Please use those discussion threads for questions and comments about a particular announcement. If you're not sure where to post a question, please log an issue in the [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/issues) repo.
+All items posted to this repo are locked,
+but will typically have links to separate discussion threads in the affected repo.
+Please use those discussion threads for questions and comments about a particular announcement.
+If you're not sure where to post a question,
+please log an issue in the [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/issues) repo.
 
 ## Process
 
-Since this repository is for announcements only, we do not accept issues or PRs on this repository. Furthermore, we'll usually not close any issues either. We will, however, close issues that have become invalid as we changed our mind and didn't end up implementing or shipping it.
+Since this repository is for announcements only,
+we do not accept issues or PRs on this repository.
+Furthermore, we'll usually not close any issues either.
+We will, however, close issues that have become invalid as we changed our mind and didn't end up implementing or shipping it.
 
 Not closing issues has the following advantages:
 
@@ -15,7 +25,7 @@ Not closing issues has the following advantages:
 
 ## Receiving Notifications
 
-Subscribe to this repo to be notified about major changes and other noteworthy announcements in PowerShell Core.
+Subscribe to this repo to be notified about major changes and other noteworthy announcements in PowerShell.
 
 ![image](https://cloud.githubusercontent.com/assets/2212879/24160016/08a7c0d4-0e1e-11e7-9586-60e987d2f26b.png)
 
